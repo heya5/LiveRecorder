@@ -1,25 +1,29 @@
 {
-  "output": "output",
+  "output": "output_0815_1408",
   "user": [
     {
       "platform": "Douyin",
       "id": "716614921596",
-      "name": "中茶官方旗舰店"
+      "name": "中茶官方旗舰店",
+      "format": "mp4"
     },
     {
       "platform": "Douyin",
       "id": "209117328796",
-      "name": "三只羊网络对酒当歌"
+      "name": "三只羊网络对酒当歌",
+      "format": "mp4"
     },
     {
       "platform": "Douyin",
       "id": "575081884767",
-      "name": "WIS官方旗舰店"
+      "name": "WIS官方旗舰店",
+      "format": "mp4"
     },
     {
       "platform": "Douyin",
       "id": "7629359417",
-      "name": "泸州老窖官方旗舰店"
+      "name": "泸州老窖官方旗舰店",
+      "format": "mp4"
     }
   ]
 }
